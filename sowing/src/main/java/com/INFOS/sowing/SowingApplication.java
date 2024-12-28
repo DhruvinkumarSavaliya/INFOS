@@ -1,13 +1,13 @@
-package com.INFOS.farm;
+package com.INFOS.sowing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FarmApplication {
+public class SowingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FarmApplication.class, args);
+		SpringApplication.run(SowingApplication.class, args);
 	}
 
 }

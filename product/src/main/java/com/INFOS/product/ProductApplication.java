@@ -1,13 +1,13 @@
-package com.INFOS.farm;
+package com.INFOS.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FarmApplication {
+public class ProductApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FarmApplication.class, args);
+		SpringApplication.run(ProductApplication.class, args);
 	}
 
 }
