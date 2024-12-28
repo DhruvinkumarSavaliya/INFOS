@@ -1,10 +1,10 @@
-package com.INFOS.farm;
+package com.INFOS.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FarmApplicationTests {
+class GatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
